@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jyoti2208ss-art.github.io/veyrivo-website/sitemap.xml
